@@ -4,6 +4,6 @@ train.py: For training the neural network
 
 model.py: creating the encoderCNN, decoderRNN and clubbing them togethor
 
-get_loader.py: Loading the data, creating vocabulary
+loader.py: Loading the data, creating vocabulary
 
 utils.py: Load model, save model, printing few test cases 
